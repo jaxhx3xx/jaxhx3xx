@@ -1,4 +1,4 @@
-## 사용자에게 가치를 주는 개발을 개발을 고민합니다!!!
+## 사용자에게 가치를 주는 개발을 고민합니다!!!
 
 <!--
 [ ! [solved.ac.프로필] (http: //mazassumnida.wtf/api/v2/generate_badge?boj=jaxhx3xx) ]
