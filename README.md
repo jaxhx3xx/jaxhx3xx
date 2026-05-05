@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F7DF1E&height=150&section=header&text=Jaehee's%20GitHub&fontSize=35&fontColor=000000" />
 
 <div align="center">
-  <h2>안녕하세요! 개발을 배우고 있는 정재희입니다.</h2>
+  <h2>안녕하세요. 개발을 배우고 있는 정재희입니다.</h2>
 </div>
 
 ### 💻 Language
