@@ -7,13 +7,13 @@
   <h2>안녕하세요. 개발을 배우고 있는 정재희입니다.</h2>
 </div>
 
-### 💻 Language
+### Language
 <div align="left">
 <img src="https://img.shields.io/badge/java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black"/>
 </div>
 
-### 🌐 Web
+### Web
 <div align="left">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
