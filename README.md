@@ -1,33 +1,29 @@
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-<img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />  -->
+<h2>매일 배우고 한 뼘씩 자라는 개발자, 정재희입니다!</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F7DF1E&height=150&section=header&text=Jaehee's%20GitHub&fontSize=35&fontColor=000000" />
+어제보다 조금 더 나은 코드를 쓰는 걸 목표로 합니다.<br/>
+궁금한 건 그냥 지나치지 않고, <b>배운 걸 기록하며 함께 성장하는 것</b>을 중요하게 생각합니다.
 
-<div align="center">
-  <h2>안녕하세요. 개발을 배우고 있는 정재희입니다.</h2>
-</div>
+
+## 🛠️ Tech Stack
 
 ### Language
-<div align="left">
-<img src="https://img.shields.io/badge/java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black"/>
-</div>
+<img src="https://skillicons.dev/icons?i=java,c,python,js&theme=dark" /> <hr>
 
-### Web
-<div align="left">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-</div>
+### Web & App
+<img src="https://skillicons.dev/icons?i=html,css,flutter,mysql&theme=dark" /><hr>
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio,figma,notion&theme=dark" /><hr>
 
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaxhx3xx)](https://github.com/anuraghazra/github-readme-stats) 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaxhx3xx)](https://github.com/anuraghazra/github-readme-stats) 
--->
+## Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F7DF1E&height=150&section=footer" />
+➡️ [**Velog에서 더 보기**](https://velog.io/@jaxhx3xx/posts)
+
+## 🐾 My Farm
+
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/jaxhx3xx"/>
 </a>
-
