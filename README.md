@@ -20,7 +20,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [**Velog에서 더 보기**](https://velog.io/@jaxhx3xx/posts)
+[**Velog에서 더 보기**](https://velog.io/@jaxhx3xx/posts)
 
 ## 🐾 My Farm
 
